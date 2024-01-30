@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Simulating Realistic Continuous Glucose Monitor Time Series By Data Augmentation"
-authors: [admin, Aishat Toye, R.Stan Hum, Samantha Kleinberg]
+title: "Objective Determination of Eating Occasion Timing (OREO): Combining Self-Report, Wrist Motion, and Continuous Glucose Monitoring to Detect Eating Occasions in Adults With Pre-Diabetes and Obesity"
+authors: [Collin J Popp, Chan Wang, Adam Hoover, admin, Margaret Curran, David E St-Jules, Souptik Barua, Mary Ann Sevick, Samantha Kleinberg]
 date: 2022-09-15T00:00:00-00:00
 doi: ""
 
