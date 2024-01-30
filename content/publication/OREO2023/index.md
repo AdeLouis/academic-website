@@ -36,7 +36,7 @@ featured: True
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:https://journals.sagepub.com/doi/abs/10.1177/19322968231197205
+url_pdf: https://journals.sagepub.com/doi/abs/10.1177/19322968231197205
 url_code: https://github.com/health-ai-lab/Data-Augmented-Simulation
 url_dataset:
 url_poster:
