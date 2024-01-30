@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A Model-free Affective Reinforcement Learning Approach to Personalization of a Social Robot Companion for Early Literacy Education"
-authors: [Hae Won Park, Ishaan Grover, Samuel Spaulding, admin, Cynthia Breazeal]
-date: 2019-01-04T00:00:00-00:00
+title: "Classification of Level of Consciousness in a Neurological ICU Using Physiological Data"
+authors: [admin, Qi Shen, Kevin Doyle, Athina Vrosgou, Angela Velazquez, Murad Megjhani, Shivani Ghoshal, David Roh, Sachin Agarwal, Soojin Park, Jan Claassen, Samantha Kleinberg]
+date: 2022-09-15T00:00:00-00:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,11 +13,11 @@ publishDate: 2019-07-04T16:06:00-04:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['paper-conference']
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Association for the Advancement of Artificial Intelligence"
-publication_short: "AAAI"
+publication: "Neurocritical Care"
+publication_short: "Neurcrit Care"
 
 abstract: ""
 
@@ -26,7 +26,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: false
+featured: True
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -37,7 +37,7 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_code:
+url_code: https://github.com/health-ai-lab/consciousness-classification
 url_dataset:
 url_poster:
 url_project:
