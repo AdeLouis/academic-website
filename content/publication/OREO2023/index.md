@@ -3,7 +3,7 @@
 
 title: "Objective Determination of Eating Occasion Timing (OREO): Combining Self-Report, Wrist Motion, and Continuous Glucose Monitoring to Detect Eating Occasions in Adults With Pre-Diabetes and Obesity"
 authors: [Collin J Popp, Chan Wang, Adam Hoover, admin, Margaret Curran, David E St-Jules, Souptik Barua, Mary Ann Sevick, Samantha Kleinberg]
-date: 2022-09-15T00:00:00-00:00
+date: 2023-09-15T00:00:00-00:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

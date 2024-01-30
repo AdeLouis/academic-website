@@ -3,7 +3,7 @@
 
 title: "Simulating Realistic Continuous Glucose Monitor Time Series By Data Augmentation"
 authors: [admin, Aishat Toye, R.Stan Hum, Samantha Kleinberg]
-date: 2022-09-15T00:00:00-00:00
+date: 2023-09-15T00:00:00-00:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
